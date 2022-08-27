@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\balea\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\balea\\.nuget\\packages"
+    ]
+  }
+}
