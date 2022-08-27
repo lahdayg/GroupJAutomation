@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3C9spfsKX9uGNJIsowEHVcSU2KQhRBfYBB9WUmpY9FxUYK0Bva/UguOL6m/Y/S12Q2aidJM3edoDj+MU2btSLg==",
+  "dgSpecHash": "j+3TAFNZwyh6brir1tawdBeTuHNPnGjK2AnSXzzYCBzdwSN+mBZPXq1gWF0nC5vu8w0u19AQUXK3haGtBegTIA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\balea\\source\\repos\\TestingGroupJ\\TestingGroupJ\\TestingGroupJ.csproj",
+  "projectFilePath": "C:\\Users\\balea\\source\\repos\\Repo\\GroupJAutomation\\TestingGroupJ\\TestingGroupJ.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\balea\\.nuget\\packages\\bodi\\1.5.0\\bodi.1.5.0.nupkg.sha512",
     "C:\\Users\\balea\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",

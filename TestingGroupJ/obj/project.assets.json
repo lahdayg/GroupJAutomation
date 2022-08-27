@@ -6818,11 +6818,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\balea\\source\\repos\\TestingGroupJ\\TestingGroupJ\\TestingGroupJ.csproj",
+      "projectUniqueName": "C:\\Users\\balea\\source\\repos\\Repo\\GroupJAutomation\\TestingGroupJ\\TestingGroupJ.csproj",
       "projectName": "TestingGroupJ",
-      "projectPath": "C:\\Users\\balea\\source\\repos\\TestingGroupJ\\TestingGroupJ\\TestingGroupJ.csproj",
+      "projectPath": "C:\\Users\\balea\\source\\repos\\Repo\\GroupJAutomation\\TestingGroupJ\\TestingGroupJ.csproj",
       "packagesPath": "C:\\Users\\balea\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\balea\\source\\repos\\TestingGroupJ\\TestingGroupJ\\obj\\",
+      "outputPath": "C:\\Users\\balea\\source\\repos\\Repo\\GroupJAutomation\\TestingGroupJ\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\balea\\AppData\\Roaming\\NuGet\\NuGet.Config",
